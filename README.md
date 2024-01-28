@@ -1,4 +1,4 @@
-**Instalar Git en su Ultima Vercion En Debian 11**
+**Instalar Git en su Ultima Version En Debian 11**
 
 
 **Instalas git como usuario root** :
