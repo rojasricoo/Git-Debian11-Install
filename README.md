@@ -1,14 +1,19 @@
-************
-**Instalar Git en su ultima Vercion en debian 11 **
-************
+**Instalar Git en su Ultima Vercion En Debian 11**
 
-*********
 
 **Instalas git como usuario root** :
-`$ sudo su`
-`$ sudo apt install git`
+1.Ejecuta estos comandos como usuario root:
 
-Listo continua con los pasos
+```bash
+$ sudo su
+```
+```bash
+$ sudo apt install git
+```
+
+Una vez ayas instalado Git vuelve al usuario normal con el siguien comando:```bash
+exit```
+**Listo continua con los pasos**
 *********
 
 1. **Añadir ruta al perfil del usuario:**
