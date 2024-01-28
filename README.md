@@ -5,10 +5,10 @@
 1.Ejecuta estos comandos como usuario root:
 
 ```bash
-$ sudo su
+sudo su
 ```
 ```bash
-$ sudo apt install git
+sudo apt install git
 ```
 
 Una vez ayas instalado Git vuelve al usuario normal con el siguien comando:```bash
